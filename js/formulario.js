@@ -177,9 +177,9 @@ document.addEventListener("DOMContentLoaded", () => {
     // ==========================
     const cliente = {
 
-        email: "jimenezangela89@gmail.com",
+        email: "admin@globalquimia.com.co",
         localizador: "WRC48MRR",
-        fechaEntrada: "2026-10-20"
+        fechaEntrada: "2026-12-19"
 
     };
     
